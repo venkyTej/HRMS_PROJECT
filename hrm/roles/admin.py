@@ -1,8 +1,7 @@
 
 from django.contrib import admin
-from .models import Department
+from .models import Role
 
 
 # Register your models here.
-admin.site.register(Department)
-1
+admin.site.register(Role)
